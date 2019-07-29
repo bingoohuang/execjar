@@ -31,3 +31,8 @@ drwxr-xr-x  3 bingoobjca  staff    96B  7 29 19:53 maven-status
 class com.google.common.io.BaseEncoding
 ➜  execjar git:(master) ✗
 ```
+
+## Thanks
+
+1. [Generates executable jar files with dependencies](https://github.com/jinahya/executable-jar-with-maven-example)
+1. [How to Create an Executable JAR with Maven](https://www.baeldung.com/executable-jar-with-maven)
