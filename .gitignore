@@ -20,3 +20,8 @@ buildNumber.properties
 !.idea/codeStyles
 *.iml
 *.ipr
+
+/.settings
+/.project
+/.classpath
+/.factoryPath
