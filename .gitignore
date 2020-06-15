@@ -25,3 +25,6 @@ buildNumber.properties
 /.project
 /.classpath
 /.factoryPath
+/bin
+.history
+.gradle/
